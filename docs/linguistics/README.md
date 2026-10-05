@@ -16,6 +16,8 @@
    * *핵심 주제:* 한자-가나 복합 표기 체계의 인지 부하 해소, 후리가나 점진적 페이딩(Fading) 및 현지 간판/메뉴판 스캐닝(Scanning) 훈련.
 5. [**05. 과업 중심 언어 교수법과 화용론 (TBLT & Sociopragmatics)**](./05_tblt_situational_curriculum.md)
    * *핵심 주제:* Ellis의 과업 사이클(Pre-task → Task → Language Focus)과 현지인에게 호감을 주는 문화적 뉘앙스(Pragmatic Competence).
+6. [**06. 기술 습득 이론과 암묵적 지식 검증 (Automaticity & Implicit Knowledge)**](./06_automaticity_and_implicit_knowledge_validation.md)
+   * *핵심 주제:* DeKeyser의 지식 3단계(선언적→절차적→자동화), Bjork의 바람직한 어려움(Desirable Difficulties), 무단서 인출(Blind Recall)과 발화 잠복기(Latency)를 통한 진정한 체득 검증.
 
 ---
 
@@ -39,5 +41,9 @@
 ├─────────────────────────────────┼────────────────────────────────────────┼───────────────────────────────────────────┤
 │ Rod Ellis (2003) TBLT           │ Meaningful Real-world Tasks,           │ src/components/AiRoleplay.tsx             │
 │ Jenny Thomas (1983) Pragmatics  │ Sociopragmatic Failure 방지            │ 실시간 AI 대화 & Native Polish 피드백     │
+├─────────────────────────────────┼────────────────────────────────────────┼───────────────────────────────────────────┤
+│ Robert DeKeyser (2007, 2015)    │ Automaticity, Skill Acquisition Theory │ src/components/LinguisticsResearchView    │
+│ Robert A. Bjork (2011)          │ Desirable Difficulties, Blind Recall   │ & 향후 블라인드 인출 / 발화 잠복기 검증  │
+│ Rod Ellis (2005) Implicit Test  │ 발화 개시 시간(Latency 1.5초 이내) 측정│ (수행 착각 탈피, 실전 자발적 발화 증명)   │
 └─────────────────────────────────┴────────────────────────────────────────┴───────────────────────────────────────────┘
 ```

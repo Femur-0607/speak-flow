@@ -91,6 +91,20 @@ const RESEARCH_TOPICS: ResearchTopic[] = [
       '[AI 프리토킹 롤플레잉]에서 내가 말한 문장을 분석하여 "더 자연스러운 현지 원어민 표현 (Native Polish)"을 실시간 추천해 줍니다.',
     docPath: 'docs/linguistics/05_tblt_situational_curriculum.md',
   },
+  {
+    id: 'automaticity',
+    titleKo: '기술 습득 이론과 암묵적 지식 검증 (Automaticity)',
+    theorists: 'Robert DeKeyser, Rod Ellis, Robert A. Bjork',
+    keyYear: '2005, 2007, 2011',
+    badge: '진정한 체득 & 자동화',
+    summary:
+      '화면에 적힌 문장을 보고 읽어서 높은 점수를 받는 것은 일시적 "수행(Performance)"일 뿐, 장기적인 "학습(Learning)"이 아닙니다(Bjork의 유창성 착각). 텍스트 힌트를 가리고 2~3초간 끙끙대며 기억을 쥐어짜내는 능동적 인출(Retrieval Practice)을 거쳐야만 머리로 아는 선언적 지식이 반사적으로 튀어나오는 암묵적 자동화(Automaticity)로 전이됩니다.',
+    problemSolved:
+      '"앱으로는 잘 읽히는데 현지에서는 왜 입이 안 떨어질까?"라는 불안과 수행의 착각 해소',
+    appImplementation:
+      '무단서 블라인드 인출(Blind Recall), 1.5초 이내 발화 개시 잠복기(Latency) 측정 지표를 통해 학습자가 특정 표현을 "몸으로 완전히 체득했는지" 객관적으로 검증하도록 설계했습니다.',
+    docPath: 'docs/linguistics/06_automaticity_and_implicit_knowledge_validation.md',
+  },
 ];
 
 export const LinguisticsResearchView = () => {

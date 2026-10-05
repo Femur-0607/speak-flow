@@ -26,6 +26,9 @@
 5. [**05. 과업 중심 언어 교수법과 화용론 (TBLT & Sociopragmatics)**](docs/linguistics/05_tblt_situational_curriculum.md)
    * *핵심 문헌:* Ellis, R. (2003), Skehan, P. (1998), Thomas, J. (1983)
    * *해결 과제:* 실전 과업 수행 사이클 및 현지 문화적 호감을 얻는 화용론적 뉘앙스(Native Polish).
+6. [**06. 기술 습득 이론과 암묵적 지식 검증 (Automaticity & Implicit Knowledge)**](docs/linguistics/06_automaticity_and_implicit_knowledge_validation.md)
+   * *핵심 문헌:* DeKeyser, R. M. (2007), Ellis, R. (2005), Bjork, R. A. (2011), Segalowitz, N. (2010)
+   * *해결 과제:* '보고 읽는 유창성의 착각(Performance vs Learning)' 탈피, 무단서 블라인드 인출(Blind Recall) 및 발화 잠복기(Latency 1.5초) 측정을 통한 실전 자동화 검증.
 
 ---
 
@@ -49,7 +52,7 @@
 * 내가 말한 문장에 대해 **"더 자연스러운 원어민 현지 표현 (Native Polish)"** 실시간 피드백.
 
 ### 5. 🏛️ 인앱 SLA 언어학 연구소
-* 5대 논문의 핵심 이론, 해결 과제, 구현 방식을 앱 내에서 인터랙티브하게 열람 가능.
+* 6대 논문의 핵심 이론, 해결 과제, 구현 방식을 앱 내에서 인터랙티브하게 열람 가능.
 
 ---
 
@@ -57,7 +60,7 @@
 
 ```bash
 # 디렉터리 이동
-cd C:\Users\didwl\.gemini\antigravity\scratch\speak-flow
+cd C:\Users\didwl\Documents\speak-flow
 
 # 패키지 설치
 npm install
